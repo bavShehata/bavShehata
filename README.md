@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bavShehata
-- 👀 I’m interested in Web development, back-end, exercising, learning spanish
-- 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on a website, specially on the back-end part of the website
+- 👀 I’m interested in Web development with MERN stack, exercising, and learning spanish
+- 🌱 I’m currently looking for a full-stack freelance/part-timer job
 - 📫 Reach out through my linked in: https://www.linkedin.com/in/bavshehata/
 
 <!---
