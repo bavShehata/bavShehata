@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bavShehata, a full-stack web developer
-- 👀 I’m interested in linux, exercising, and learning spanish
-- 🌱 I’m currently looking for a web development freelance/part-time job
+- 👋 Hi, I’m @bavShehata, a full-stack engineer using javascript, python and c
+- 👀 I’m interested in breaking my linux distro trying new things, online privacy awareness, and learning spanish
+- 🌱 I’m currently looking for backend freelance/remote jobs
 - 📫 Reach out through my [linkedIn](https://www.linkedin.com/in/bavshehata/) or my [Website](https://www.bavlifyweb.com)
 
 <!---
